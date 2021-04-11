@@ -1,2 +1,0 @@
-# Myappsample
-Sample git tutorial
